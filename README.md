@@ -1,2 +1,2 @@
 # git_hub_practice
-Practice version control
+Made some changes to practice merge conflicts
