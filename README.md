@@ -1,2 +1,2 @@
 # git_hub_practice
-Made some changes to practice merge conflicts
+This version only exists in the remote repo!
